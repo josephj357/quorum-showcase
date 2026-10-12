@@ -2,9 +2,9 @@
 
 Chat-native multi-agent platform where users convene AI agents with distinct personalities, domains, and voices — for solo sessions or live roundtables where agents react to each other.
 
-[![Watch the Quorum launch video](media/poster.jpg)](media/quorum-launch-16x9.mp4)
+https://github.com/user-attachments/assets/659cf418-e46d-4aa9-9d94-6a94f86efa18
 
-<sub>▶ Launch video: [landscape 16:9 · 44s](media/quorum-launch-16x9.mp4) · [vertical 9:16 for mobile · 44s](media/quorum-launch-9x16.mp4)</sub>
+<sub>▶ 44s launch video · [vertical 9:16 cut for mobile](media/quorum-launch-9x16.mp4) · [download landscape](media/quorum-launch-16x9.mp4)</sub>
 
 **Live:** https://quorumapp.io
 
